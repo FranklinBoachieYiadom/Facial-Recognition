@@ -68,4 +68,4 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-print(f"\n****{name} your attendance has been marked****.")
+print(f"\n*****************\n{name} your attendance has been marked\n*****************")
